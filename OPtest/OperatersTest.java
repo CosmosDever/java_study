@@ -25,7 +25,7 @@ public class OperatersTest {
     boolean compare_ab = (a == b);
     System.out.println("Compare a and b = "+ compare_ab);
     boolean logical_ab = (a<5 && b>8);
-    System.out.println("Logical a and b ="+ logical_ab);
+    System.out.println("Logical a and b = "+ logical_ab);
 
     }
 
